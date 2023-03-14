@@ -6,8 +6,8 @@ puts 'Tunapanda mbegu sasa... 🌱'
       {
         name: Faker::Creature::Bird.plausible_common_name,
         species: Faker::Creature::Bird.order,
-      },
-    ],
+      }
+    ]
   )
 end
 
